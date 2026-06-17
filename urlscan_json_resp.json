@@ -1,0 +1,287 @@
+{
+  "results": [
+    {
+      "task": {
+        "visibility": "public",
+        "method": "manual",
+        "domain": "seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "time": "2026-06-12T19:10:57.111Z",
+        "uuid": "019ebd3e-7342-748d-a979-361032bb8479",
+        "url": "http://seiconsulting.it/"
+      },
+      "stats": {
+        "uniqIPs": 15,
+        "uniqCountries": 3,
+        "dataLength": 8041488,
+        "encodedDataLength": 5691099,
+        "requests": 77
+      },
+      "page": {
+        "country": "IT",
+        "server": "aruba-proxy",
+        "redirected": "sub-domain",
+        "ip": "89.46.110.64",
+        "apexDomainAgeDays": 3009,
+        "language": "it",
+        "mimeType": "text/html",
+        "title": "SEI Consulting | Software Gestionali",
+        "url": "https://www.seiconsulting.it/",
+        "tlsValidDays": 395,
+        "tlsAgeDays": 328,
+        "ptr": "webx1462.aruba.it",
+        "domainAgeDays": 3202,
+        "tlsValidFrom": "2025-07-19T04:53:58.000Z",
+        "domain": "www.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "asnname": "ARUBA-ASN Aruba S.p.A., IT",
+        "asn": "AS31034",
+        "tlsIssuer": "Actalis Domain Validation Server CA G3",
+        "status": "200"
+      },
+      "_id": "019ebd3e-7342-748d-a979-361032bb8479",
+      "_score": null,
+      "sort": [
+        1781291457111,
+        "019ebd3e-7342-748d-a979-361032bb8479"
+      ],
+      "result": "https://urlscan.io/api/v1/result/019ebd3e-7342-748d-a979-361032bb8479/",
+      "screenshot": "https://urlscan.io/screenshots/019ebd3e-7342-748d-a979-361032bb8479.png"
+    },
+    {
+      "task": {
+        "visibility": "public",
+        "method": "manual",
+        "domain": "seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "time": "2026-06-12T16:58:05.820Z",
+        "uuid": "019ebcc4-d10b-76d8-bdef-fcceab5b6586",
+        "url": "http://seiconsulting.it/"
+      },
+      "stats": {
+        "uniqIPs": 14,
+        "uniqCountries": 3,
+        "dataLength": 8039907,
+        "encodedDataLength": 5688495,
+        "requests": 77
+      },
+      "page": {
+        "country": "IT",
+        "server": "aruba-proxy",
+        "redirected": "sub-domain",
+        "ip": "89.46.110.64",
+        "apexDomainAgeDays": 3009,
+        "language": "it",
+        "mimeType": "text/html",
+        "title": "SEI Consulting | Software Gestionali",
+        "url": "https://www.seiconsulting.it/",
+        "tlsValidDays": 395,
+        "tlsAgeDays": 328,
+        "ptr": "webx1462.aruba.it",
+        "domainAgeDays": 3202,
+        "tlsValidFrom": "2025-07-19T04:53:58.000Z",
+        "domain": "www.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "asnname": "ARUBA-ASN Aruba S.p.A., IT",
+        "asn": "AS31034",
+        "tlsIssuer": "Actalis Domain Validation Server CA G3",
+        "status": "200"
+      },
+      "_id": "019ebcc4-d10b-76d8-bdef-fcceab5b6586",
+      "_score": null,
+      "sort": [
+        1781283485820,
+        "019ebcc4-d10b-76d8-bdef-fcceab5b6586"
+      ],
+      "result": "https://urlscan.io/api/v1/result/019ebcc4-d10b-76d8-bdef-fcceab5b6586/",
+      "screenshot": "https://urlscan.io/screenshots/019ebcc4-d10b-76d8-bdef-fcceab5b6586.png"
+    },
+    {
+      "submitter": {},
+      "task": {
+        "visibility": "public",
+        "method": "api",
+        "domain": "valid-exmarc.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "time": "2025-06-03T17:07:28.122Z",
+        "uuid": "019736c3-0e2d-771e-9923-29f61652920b",
+        "url": "https://valid-exmarc.seiconsulting.it/"
+      },
+      "stats": {
+        "uniqIPs": 1,
+        "uniqCountries": 1,
+        "dataLength": 1610337,
+        "encodedDataLength": 863383,
+        "requests": 41
+      },
+      "page": {
+        "country": "GB",
+        "server": "Microsoft-IIS/10.0",
+        "redirected": "same-domain",
+        "ip": "9.235.1.7",
+        "mimeType": "text/html",
+        "title": "EXMA - Expert Management - Logon",
+        "url": "https://valid-exmarc.seiconsulting.it/app/exma?ReturnUrl=%2f",
+        "tlsValidDays": 365,
+        "tlsAgeDays": 71,
+        "tlsValidFrom": "2025-03-24T00:00:00.000Z",
+        "domain": "valid-exmarc.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "asnname": "MICROSOFT-CORP-MSN-AS-BLOCK, US",
+        "asn": "AS8075",
+        "tlsIssuer": "Sectigo RSA Domain Validation Secure Server CA",
+        "status": "200"
+      },
+      "_id": "019736c3-0e2d-771e-9923-29f61652920b",
+      "_score": null,
+      "sort": [
+        1748970448122,
+        "019736c3-0e2d-771e-9923-29f61652920b"
+      ],
+      "result": "https://urlscan.io/api/v1/result/019736c3-0e2d-771e-9923-29f61652920b/",
+      "screenshot": "https://urlscan.io/screenshots/019736c3-0e2d-771e-9923-29f61652920b.png"
+    },
+    {
+      "submitter": {},
+      "task": {
+        "visibility": "public",
+        "method": "api",
+        "domain": "seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "time": "2025-03-23T23:49:00.885Z",
+        "uuid": "0195c568-c566-7447-bb36-0bf965dd21ec",
+        "url": "https://seiconsulting.it/"
+      },
+      "stats": {
+        "uniqIPs": 13,
+        "uniqCountries": 4,
+        "dataLength": 8015187,
+        "encodedDataLength": 4982909,
+        "requests": 86
+      },
+      "page": {
+        "country": "IT",
+        "server": "aruba-proxy",
+        "redirected": "sub-domain",
+        "ip": "89.46.110.64",
+        "mimeType": "text/html",
+        "title": "SEI Consulting | Software Gestionali",
+        "url": "https://www.seiconsulting.it/",
+        "tlsValidDays": 395,
+        "tlsAgeDays": 189,
+        "ptr": "webx1462.aruba.it",
+        "tlsValidFrom": "2024-09-15T07:29:03.000Z",
+        "domain": "www.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "asnname": "ARUBA-ASN Aruba S.p.A., IT",
+        "asn": "AS31034",
+        "tlsIssuer": "Actalis Domain Validation Server CA G3",
+        "status": "200"
+      },
+      "_id": "0195c568-c566-7447-bb36-0bf965dd21ec",
+      "_score": null,
+      "sort": [
+        1742773740885,
+        "0195c568-c566-7447-bb36-0bf965dd21ec"
+      ],
+      "result": "https://urlscan.io/api/v1/result/0195c568-c566-7447-bb36-0bf965dd21ec/",
+      "screenshot": "https://urlscan.io/screenshots/0195c568-c566-7447-bb36-0bf965dd21ec.png"
+    },
+    {
+      "submitter": {},
+      "task": {
+        "visibility": "public",
+        "method": "api",
+        "domain": "seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "time": "2024-03-23T10:37:11.183Z",
+        "uuid": "81b98f8a-26bc-4fd1-b3cc-57976d19aee7",
+        "url": "http://seiconsulting.it/",
+        "tags": [
+          "tranco_l324"
+        ]
+      },
+      "stats": {
+        "uniqIPs": 12,
+        "uniqCountries": 3,
+        "dataLength": 7314182,
+        "encodedDataLength": 4980358,
+        "requests": 75
+      },
+      "page": {
+        "country": "IT",
+        "server": "aruba-proxy",
+        "redirected": "sub-domain",
+        "ip": "89.46.110.64",
+        "mimeType": "text/html",
+        "title": "SEI Consulting | Software Gestionali",
+        "url": "https://www.seiconsulting.it/",
+        "tlsValidDays": 395,
+        "tlsAgeDays": 131,
+        "ptr": "webx1462.aruba.it",
+        "tlsValidFrom": "2023-11-13T04:08:36.000Z",
+        "domain": "www.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "asnname": "ARUBA-ASN, IT",
+        "asn": "AS31034",
+        "tlsIssuer": "Actalis Domain Validation Server CA G3",
+        "status": "200"
+      },
+      "_id": "81b98f8a-26bc-4fd1-b3cc-57976d19aee7",
+      "_score": null,
+      "sort": [
+        1711190231183,
+        "81b98f8a-26bc-4fd1-b3cc-57976d19aee7"
+      ],
+      "result": "https://urlscan.io/api/v1/result/81b98f8a-26bc-4fd1-b3cc-57976d19aee7/",
+      "screenshot": "https://urlscan.io/screenshots/81b98f8a-26bc-4fd1-b3cc-57976d19aee7.png"
+    },
+    {
+      "task": {
+        "visibility": "public",
+        "method": "api",
+        "domain": "www.seiconsulting.net",
+        "apexDomain": "seiconsulting.net",
+        "time": "2020-02-25T12:15:37.619Z",
+        "uuid": "93167ccf-2314-4886-a91e-ce1d5db10a47",
+        "url": "http://www.seiconsulting.net"
+      },
+      "stats": {
+        "uniqIPs": 12,
+        "uniqCountries": 4,
+        "dataLength": 1577593,
+        "encodedDataLength": 1003615,
+        "requests": 55
+      },
+      "page": {
+        "country": "IT",
+        "server": "Apache",
+        "redirected": "off-domain",
+        "ip": "62.149.144.115",
+        "mimeType": "text/html",
+        "url": "https://www.seiconsulting.it/",
+        "tlsValidDays": 457,
+        "tlsAgeDays": 328,
+        "ptr": "webx593.aruba.it",
+        "tlsValidFrom": "2019-04-03T11:15:00.000Z",
+        "domain": "www.seiconsulting.it",
+        "apexDomain": "seiconsulting.it",
+        "asnname": "ARUBA-ASN, IT",
+        "asn": "AS31034",
+        "tlsIssuer": "Actalis Domain Validation Server CA G2",
+        "status": "200"
+      },
+      "_id": "93167ccf-2314-4886-a91e-ce1d5db10a47",
+      "_score": null,
+      "sort": [
+        1582632937619,
+        "93167ccf-2314-4886-a91e-ce1d5db10a47"
+      ],
+      "result": "https://urlscan.io/api/v1/result/93167ccf-2314-4886-a91e-ce1d5db10a47/",
+      "screenshot": "https://urlscan.io/screenshots/93167ccf-2314-4886-a91e-ce1d5db10a47.png"
+    }
+  ],
+  "total": 6,
+  "took": 262,
+  "has_more": false
+}
