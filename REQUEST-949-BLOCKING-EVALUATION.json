@@ -1,0 +1,29 @@
+{
+	"timeStamp": "2026-06-17T13:39:08+00:00",
+	"resourceId": "/SUBSCRIPTIONS/CF66D3FA-B7E0-4CA8-BCFF-44C767EE8182/RESOURCEGROUPS/EXMACOLL_RG/PROVIDERS/MICROSOFT.NETWORK/APPLICATIONGATEWAYS/SEICONSULTINGGW",
+	"operationName": "ApplicationGatewayFirewall",
+	"category": "ApplicationGatewayFirewallLog",
+	"properties": {
+		"instanceId": "appgw_25",
+		"clientIp": "93.62.242.30",
+		"requestUri": "/UDX/UDXHomepage2.aspx",
+		"ruleSetType": "OWASP CRS",
+		"ruleSetVersion": "3.2",
+		"ruleId": "949110",
+		"ruleGroup": "REQUEST-949-BLOCKING-EVALUATION",
+		"message": "Inbound Anomaly Score Exceeded (Total Score: 5)",
+		"action": "Detected",
+		"details": {
+			"message": "Greater and Equal to Tx:inbound_anomaly_score_threshold at TX:anomaly_score.",
+			"data": "",
+			"file": "REQUEST-949-BLOCKING-EVALUATION.conf",
+			"line": "79"
+		},
+		"hostname": "valid-exmarc.seiconsulting.it",
+		"transactionId": "76974aba2ff8e6528d86660297351060",
+		"policyId": "120#_subscriptions_cf66d3fa-b7e0-4ca8-bcff-44c767ee8182_resourceGroups_ExmaColl_RG_providers_Microsoft.Network_ApplicationGatewayWebApplicationFirewallPolicies_SeiConsunting_WAF_Policy",
+		"policyScope": "Global",
+		"policyScopeName": "Global",
+		"engine": "Azwaf"
+	}
+}
